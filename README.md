@@ -6,7 +6,7 @@ I'm also passionate about learning new algorithms of Deep Learning and Dive more
 
 - 🔭 I’m currently learning Pandas
 - 👯 I’m looking to collaborate on Data Analytic Projects
-- 📫 You can reach me on [Social Media](https://www.linkedin.com/in/arminz3/)
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/arminz3/)
 <!--
 **ARminZ3/ARminZ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
