@@ -1,8 +1,8 @@
 # Hi 👋🏻, I'm Armin
 
 I like to introduce myself as a lifetime learner and a curious fellow.
-I enjoy every aspect of Data Analysis and Math.
-I'm also passionate about learning new algorithms of Deep Learning and Dive more into AI world.
+I enjoy every aspect of Life.
+I'm passionate about learning new algorithms of Machine Learning and Dive more into AI world.
 
 - 🔭 I’m currently learning Inferential Statistics and ML Algorithms
 - 👯 I’m looking to collaborate on Data Analytic Projects
