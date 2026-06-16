@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/ARminZ3/github-readme-stats">
+<!--
+<a href="https://github.com/ARminZ3/github-readme-stats">                                   این آمار این قسمت باید از کامنت در بیاد
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARminZ3&show_icons=true)](https://github.com/ARminZ3/github-readme-stats" />
 </a>
+-->
+
 <!-- <a href="https://github.com/ARminZ3/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARminZ3&layout=compact)](https://github.com/ARminZ3/github-readme-stats" />
 </a> -->
