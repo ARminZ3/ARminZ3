@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/ARminZ3/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARminZ3&show_icons=true)](https://github.com/ARminZ3/github-readme-stats" />
+</a>
+<!-- <a href="https://github.com/ARminZ3/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARminZ3&layout=compact)](https://github.com/ARminZ3/github-readme-stats" />
+</a> -->
+
+<!-- [![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARminZ3&show_icons=true)](https://github.com/ARminZ3/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARminZ3&layout=compact)](https://github.com/ARminZ3/github-readme-stats) -->
