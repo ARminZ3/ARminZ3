@@ -2,7 +2,7 @@
 
 I like to introduce myself as a lifetime learner and a curious fellow.
 I enjoy every aspect of Life.
-I'm passionate about learning new algorithms of Machine Learning and Dive more into AI world.
+I'm passionate about Neural Networks and Robotics.
 
 - 🔭 I’m currently learning Deep 😭
 - 👯 I’m looking to collaborate on AI Projects
